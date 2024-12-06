@@ -5,3 +5,5 @@ American Association for Cancer Research AACR, Molecular Cancer Research. [Paper
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 Hypoxia drives centrosome amplification in cancer cells via HIF-1α-dependent induction of polo-like kinase 4, Mittal., Kaur, J., Sharma, S., Sharma, N., Wei, G., Choudhary, I., Imhansi-Jacob, P., Maganti, N., Pawar, S., Rida, P., Toss, M. S., Aleskandarany, M., Janssen, E. A., Soiland, H., Gupta, M. V., Reid, M. D., Rakha, E. A., & Dr. Aneja, Publication: AACR Molecular cancer research (Publication date: December 22), collaboration with Dr. Aneja, Georgia State University, Atlanta, USA, IF=6.3, Github, Article link, [Cited times: 6]^^^ DOI: 10.1158/1541-7786.MCR-20-0798, Issue: 1, Volume: 20, Pages: 596-606.
+†††††
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
